@@ -1,2 +1,21 @@
-# Project-1---Mini-Enterprise-IT-Lab-
-A hands-on enterprise IT infrastructure lab built using Windows Server 2022, Windows 11, Active Directory, Group Policy, PowerShell automation, DNS, DHCP, file sharing, and Microsoft Entra ID. Demonstrates system administration, user management, security policies, and IT troubleshooting. 
+# Mini Enterprise IT Lab
+
+A small company IT environment built in VirtualBox/Hyper-V with Windows Server 2022,
+Windows 11 clients and a Microsoft Entra ID / M365 tenant.
+
+## What's inside
+- Active Directory, DNS and DHCP on Windows Server 2022
+- 2 Windows 11 clients joined to the domain
+- OUs, security groups, users and Group Policy
+- PowerShell bulk onboarding/offboarding from CSV
+- File shares with least-privilege NTFS permissions
+- Entra ID / M365 administration basics
+- Break/fix scenarios with write-ups
+
+## Network diagram
+_(coming soon)_
+
+## Progress
+- [x] Repo created
+- [ ] Hypervisor and VMs
+- [ ] Active Directory, DNS, DHCP
